@@ -1,0 +1,7 @@
+group,replicate,fastq_1,fastq_2,strandedness
+siControl,1,data/fastqs/SRR11918577.fastq.gz,,unstranded
+siControl,2,data/fastqs/SRR11918578.fastq.gz,,unstranded
+siSrsf3,1,data/fastqs/SRR11918579.fastq.gz,,unstranded
+siSrsf3,2,data/fastqs/SRR11918580.fastq.gz,,unstranded
+siSrsf7,1,data/fastqs/SRR11918581.fastq.gz,,unstranded
+siSrsf7,2,data/fastqs/SRR11918582.fastq.gz,,unstranded

@@ -1,0 +1,11 @@
+name: apa-eval
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - nextflow==20.10.0
+  - pip
+  - pip:
+    - snakemake
+    - tibanna
