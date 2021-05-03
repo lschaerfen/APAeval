@@ -15,11 +15,10 @@ conda activate apa-eval
 
 In order to avoid a warning, set the environment variable `NXF_SINGULARITY_CACHEDIR` to a directory of your choice (e.g. `/tmp`).
 
-Adjust max memory and max CPU settings in `nf_core/run_rnaseq.sh`.
+Adjust max memory and max CPU settings in `run_rnaseq.sh`.
 
 Run the rnaseq pipeline with
 
 ``` bash
-cd nf_core
 bash run_rnaseq.sh
 ```
